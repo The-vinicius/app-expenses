@@ -1,2 +1,2 @@
-# app
-despesas pessoais
+# app expenses
+personal expenses
